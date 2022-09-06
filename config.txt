@@ -3,10 +3,10 @@
 # 公众号appId
 "app_id": "wx585d50c9ab3362c7",
 # 公众号appSecret
-"app_secret": "d43ffbab4e939ee791454004866606ea",
+"app_secret": "22bdaed633f8c7da3d2354b2dc28b9f9",
 # 模板消息id
-"LhjpZPo8uZxcH_Tjm6ZsomhuIo8LCEM5ZZANgmo_5S4",
-# 接收公众号消息的微信，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"template_id":"LhjpZPo8uZxcH_Tjm6ZsomhuIo8LCEM5ZZANgmo_5S4",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oBg8U6TZ1OKsFDxvi8gFtlehO2k4","oBg8U6QjK1cgRWMXnjgnRdWLrqtQ"],
  
 # 信息配置
