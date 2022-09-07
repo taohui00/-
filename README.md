@@ -1,4 +1,5 @@
 给宝宝弄个每日问候
+
 {{date.DATA}} 
 
 地区：{{region.DATA}} 
@@ -16,9 +17,3 @@
 
 {{note_en.DATA}} 
 {{note_ch.DATA}}
-https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shareUid=3198334&shareFrom=com.coolapk.app_4.10
-http://mp.weixin.qq.com/debug/cgi-bin/sandboxinfo?action=showinfo&t=sandbox/index
-https://id.qweather.com/
-![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/%E5%92%8C%E9%A3%8E%E5%A4%A9%E6%B0%94key%E7%94%9F%E6%88%90.png)
-![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste_2022-08-24_12-13-19.png)
-![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste.png)
