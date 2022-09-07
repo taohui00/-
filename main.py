@@ -200,13 +200,7 @@ def send_message(to_user, access_token, region_name, weather, temp, wind_dir, no
         print("推送消息成功")
     else:
         print(response)
- #高考倒计时
-import datetime
-print('高考倒计时')
-now = datetime.datetime.now()
-print('    今天是：',now.strftime('%Y-%m-%d %A'))
-time2 = datetime.datetime(2023,6,8)
-print('距离2023年高考开始还有：'+str((time2-now).days)+'天'
+
  
 if __name__ == "__main__":
     try:
